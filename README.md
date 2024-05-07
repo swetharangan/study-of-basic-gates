@@ -18,7 +18,7 @@ AND gate OR gate NOT gate NAND gate NOR gate Ex-OR gate Ex-NOR gate
 
 **AND gate**
 
-The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
+The AND gate is an electro Circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 Y= A.B
 
 **OR gate** 
@@ -65,8 +65,8 @@ Y= A⊕B
 
 
 **PROGRAM**
-Developed by: Adityah M S.
-RegisterNumber: 212223220002
+Developed by: swetha R
+RegisterNumber: 212223040221
 
 ## AND GATE 
 
