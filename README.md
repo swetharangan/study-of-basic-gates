@@ -65,7 +65,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-Developed by: swetha R
+Developed by: R.swetha 
 RegisterNumber: 212223040221
 
 ## AND GATE 
